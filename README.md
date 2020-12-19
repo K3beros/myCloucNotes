@@ -1,6 +1,6 @@
 # Azure Fundamentals
 
-This contains notes taken based on the skills definition for the azure fundamentals exam. This is only 
+This contains notes taken based on the skills definition for the azure fundamentals exam. Although not thoroughly comprehensive it's intended to define/state some concepts that may not be clearly defined. This is only 
 intended for study purposes:
 
 ### Describe Cloud Concepts
@@ -8,8 +8,8 @@ intended for study purposes:
 
 ##### **Identify the benefits and considerations of using cloud services**
 
-* Identify the benefits of cloud computing, such as High Availability, Scalability, Elasticity,
-  Agility, and Disaster Recovery.
+* **Identify the benefits of cloud computing, such as High Availability, Scalability, Elasticity,
+  Agility, and Disaster Recovery.**
 
   *High Availability*: _Depending on the service-level agreement (SLA) that you choose, your cloud-based apps can provide a continuous user experience with no apparent downtime, even when things go wrong._
   
@@ -41,6 +41,7 @@ intended for study purposes:
 
   *Virtual Machine's ---> IaaS, Azure App Services ---> PaaS, Office 365 --> SaaS*
 
-  
+
+### Describe Core Azure Services
 
 
